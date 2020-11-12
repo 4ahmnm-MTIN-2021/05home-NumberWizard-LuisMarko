@@ -1,4 +1,4 @@
-# 05home-NumberWizard-luisMarko
+# 05home-NumberWizard-LuisMarko
 ### Project description: 
 The goal is to create a Number guessing game called Number Wizard, where the computer guesses your chosen number through simple maths
 
